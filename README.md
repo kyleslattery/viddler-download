@@ -1,7 +1,7 @@
 viddler-download
 ================
 
-In light of [Viddler's announcement to close personal accounts](http://blog.viddler.com/djsteen/removal-of-personal-accounts/), I put together this script to download all of your videos, along with simple metadata about each video.
+In light of [Viddler's announcement to close personal accounts](http://blog.viddler.com/djsteen/removal-of-personal-accounts/), I put together this script to download all of your videos, along with simple metadata about each video. It's not pretty, but it'll do the trick.
 
 How To Use
 ----------
